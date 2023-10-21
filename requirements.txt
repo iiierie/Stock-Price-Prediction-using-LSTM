@@ -1,0 +1,8 @@
+pandas
+numpy
+tensorflow
+yfinance
+datetime
+matplotlib
+seaborn
+pandas_datareader
