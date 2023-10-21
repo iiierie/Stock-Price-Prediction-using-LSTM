@@ -7,8 +7,8 @@
     - The provided links offer examples and tutorials on how to utilize LSTM for stock market analysis and prediction. They provide valuable resources for understanding the implementation of LSTM in this context.
 - Resources and Guides
     - https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm#6.-Predicting-the-closing-price-stock-price-of-APPLE-inc:
-    
     - https://www.datacamp.com/tutorial/lstm-python-stock-market
+    - https://www.youtube.com/watch?v=z7IPBg6MyrU
 
 ---
 
